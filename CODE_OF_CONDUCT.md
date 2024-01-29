@@ -175,6 +175,9 @@ S. Jake Atkins 07-17-20
 Melissa Popeil 10-5-21
 
 Eva Christianson 2-18-2022
+
+Trenton Koberna 01-29-24
+
 ## License and attribution
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
